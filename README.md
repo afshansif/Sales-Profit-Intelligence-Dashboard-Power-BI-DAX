@@ -1,7 +1,7 @@
 # 📊 Sales & Profit Intelligence Dashboard — Power BI + DAX
 
 
-<img src="dax_graphs.png" width="1000" alt="Home Screen"> 
+<img src="Dax graphs.png" width="1000" alt="Dax Dashboard"> 
 <br>
 
 
@@ -96,5 +96,5 @@ A detailed data table covering all key metrics per month including Sales YTD, Pr
 
 ## 👤 Author
 
-Built with ❤️ using Power BI & DAX
+Built using Power BI & DAX
 > *My first Power BI dashboard — focused on mastering DAX calculations and multi-visual storytelling.*
